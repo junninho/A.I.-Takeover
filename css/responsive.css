@@ -51,17 +51,17 @@
 /* Small Devices Potrait */
 @media (max-width : 767px){
 
-	
+
 }
 
-/* Extra Small Devices, Phones */ 
+/* Extra Small Devices, Phones */
 @media (max-width : 479px) {
 
-		
+
 
 }
 
-/* Custom, iPhone Retina */ 
+/* Custom, iPhone Retina */
 @media (min-width : 320px) and (max-width: 478px)  {
 	.navbar-default .navbar-nav > li > a {
     	padding: 15px 20px;

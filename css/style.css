@@ -1,44 +1,4 @@
-/*
-	Template Name:
-	Author: Themeturn
-	Author URI: http://themeforest.net/user/ThemeTurn
-	Description:
-	Version: 1.0
-*/
-
-/* Table of Content
-==================================================
-1.	Global Styles
-2. 	Typography
-3.	Common styles
-4.	Header area
-5.	Slideshow
-6.	Intro area
-7.	Services
-8.	Practice area
-9.	Content
-10.	Facts
-11.	Content bottom
-12.	Clients
-13. Footer
-14.	Copyright
-15.	Home 2
-16.	Banner area
-17.	Testimonials Page
-18.	Attorneys
-19.	Our Firm
-20.	Action
-21.	News Listing
-22.	Sidebar
-23.	Contact page
-24.	Features
-25.	Style Switcher (you can delete the css)
-
-*/
-
-
 @import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700);
-
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700);
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,400italic,500italic);
 
@@ -639,8 +599,8 @@ h2.title{
 		margin-bottom: 30px;
 	}
 
-.socail-link{}
-.socail-link a i{
+.social-link{}
+.social-link a i{
 	background: #4b5456;
 	width: 35px;
 	height: 35px;
@@ -649,6 +609,6 @@ h2.title{
 	font-size: 20px;
 	line-height: 35px;
 }
-.socail-link a:hover i{
+.social-link a:hover i{
 	color: #fff;
 }
